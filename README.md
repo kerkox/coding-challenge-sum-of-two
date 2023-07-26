@@ -49,7 +49,11 @@ the first part in a single line should contain the list of numbers separated by 
 
 ## Testing
 
-A
+to run the unit tests the following command is executed
+
+```bash 
+npm run test
+```
 
 ## Analysis of the algorithm
 
